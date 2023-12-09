@@ -1,5 +1,4 @@
-# News-Classification
-News Classification using Passive Aggressive Classifier
+# News-Classification-FAKE or REAL
 
 **Dataset Description:**
 
